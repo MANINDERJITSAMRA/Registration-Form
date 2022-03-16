@@ -1,0 +1,22 @@
+[
+  {
+    "email": "madaf@gmail.com",
+    "firstname": "fgh",
+    "lastname": "fgh",
+    "gender": "Male",
+    "password": "sdfghj",
+    "password_repeat": "sdfghj",
+    "phone": "45678",
+    "Date of Birth": "0766-04-05"
+  },
+  {
+    "email": "michaelgscott@gmail.com",
+    "firstname": "michael",
+    "lastname": "scott",
+    "gender": "Male",
+    "password": "asdFGH123",
+    "password_repeat": "asdFGH123",
+    "phone": "007000700",
+    "Date of Birth": "1234-03-03"
+  }
+]
